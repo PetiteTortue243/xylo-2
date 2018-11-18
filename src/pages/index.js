@@ -3,7 +3,7 @@ import Layout from '../components/layout'
 
 const IndexPage = () => (
   <Layout>
-    <section className="hero is-large is-primary">
+    <section className="hero is-medium is-primary">
       <div className="hero-body">
         <div className="container has-text-centered">
           <h1 className="title">Vertically Centered Text anywhere</h1>

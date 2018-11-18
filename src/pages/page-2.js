@@ -10,10 +10,10 @@ const AboutUsPage = () => (
         <div className="container">
           <h1 className="title">About Us</h1>
           <h2 className="subtitle">
-            <nav className="breadcrumb is-small" aria-label="breadcrumbs">
+            <nav className="breadcrumb is-big" aria-label="breadcrumbs">
               <ul>
                 <li>
-                  <Link to="/home">Home</Link>
+                  <Link to="/">Home</Link>
                 </li>
                 <li className="is-active">
                   <Link to="/page-2">Page 2</Link>
